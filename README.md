@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nkululeko Abbitrator Gumede</h1>
-<h3 align="center">A passionate Javascript developer from South Africa</h3>
+<h3 align="center">A passionate | AI Data Annotator | AI Trainer | JavaScript Developer from South Africa</h3>
 
-- 🔭 I’m currently working on **an AI Evaluator Project**
+- 🔭 I’m currently working on **an AI Data Annotation Tool & Evaluator Project**
 
 - 🌱 I’m currently learning **Full-Stack Development & LLMs**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 🤝 I’m looking for help with **Landing Remote Jobs**
+- 🤝 I’m looking for help with **Landing Remote Jobs & Freelance work**
 
 - 💬 Ask me about **Front-end & Back-end Development**
 
