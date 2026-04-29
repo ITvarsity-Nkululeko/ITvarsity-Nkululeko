@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nkululeko Abbitrator Gumede</h1>
-<h3 align="center">A passionate | AI Data Annotator | AI Trainer | JavaScript Developer from South Africa</h3>
+<h3 align="center">A passionate AI Trainer(LLM & Prompt Evaluator) | JavaScript Developer from South Africa</h3>
 
 - 🔭 I’m currently working on **an AI Data Annotation & Evaluation Project**
 
