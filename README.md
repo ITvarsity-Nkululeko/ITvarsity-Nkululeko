@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development & LLMs**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 I’m looking to collaborate on **Front-End & MERN Stack Projects**
 
 - 🤝 I’m looking for help with **Landing Remote Jobs & Freelance work**
 
