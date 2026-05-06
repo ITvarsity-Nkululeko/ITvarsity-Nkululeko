@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nkululeko Abbitrator Gumede</h1>
 <h3 align="center">A passionate AI Trainer(LLM & Prompt Evaluator) | JavaScript Developer from South Africa</h3>
 
-- 🔭 I’m currently working on [**an AI Data Annotation & Prompt Evaluation App**](https://github.com/ITvarsity-Nkululeko/AI-Response-Annotation-Tool-)
+- 🔭 I’m currently working on [**an AI Response Annotation App**](https://github.com/ITvarsity-Nkululeko/AI-Response-Annotation-Tool-)
 
 - 🌱 I’m currently learning **Full-Stack Development & LLMs**
 
